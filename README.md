@@ -1,4 +1,4 @@
-# Todo Appmm
+# Todo App
 ## Step 1: Clone the Repository
 ```sh
 git clone https://github.com/erdem-bektas/Simple-Todo-App.git
